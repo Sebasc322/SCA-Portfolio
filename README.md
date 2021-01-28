@@ -6,7 +6,7 @@ This is the code of how I made a web application of my portafolio, showing my Me
 
 
 ## Home Page 
-![Home.png](https://github.com/Sebasc322/SupplierApp/blob/main/Home.png)
+![Home.png](https://github.com/Sebasc322/SCA-Portfolio/blob/main/portfolio-homepage.png)
 
 
 
