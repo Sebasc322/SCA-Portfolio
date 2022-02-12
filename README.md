@@ -15,7 +15,4 @@ This is the code of how I made a web application of my portafolio, showing my Me
 
 
 
-This web app was based on Project Canopy's theme.
-https://www.proyectocanopy.co/
 
-Thanks to Canopy Project!
