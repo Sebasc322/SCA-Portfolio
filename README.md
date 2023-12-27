@@ -1,7 +1,9 @@
 # SCA - Portfolio
 ### Sebastián Carmona Ángel Data Science Portfolio web app. 
 
-This is the code of how I made a web application of my portafolio, showing my Medium articles and projects notebooks. 
+This is the code of how I made a web application of my portfolio, showing my Medium articles and project notebooks. 
+
+This is a whole web-app developed using Python and Dash. 
 
 
 
